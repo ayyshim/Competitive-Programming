@@ -9,6 +9,7 @@ This is a github repository where I keep all the solution codes from competitive
 > 004. Number of divisior (HackerEarth Code Arena)
 > 005. Sum of primes (HackerEarth Code Arena)
 > 006. Win Or Lose (TechGig)
+> 007. Tiny Painters (Private)
 
 ### Languages in use:
 ![C ++](https://img.shields.io/badge/C%20++-red.svg) ![Javascript](https://img.shields.io/badge/Javascript-yellow.svg)  ![Graph QL](https://img.shields.io/badge/Graph%20QL-purple.svg)
